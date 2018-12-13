@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.0.6)
+    excon (0.55.0)
+    json (1.8.6)
+    mandrill-api (1.0.53)
+      excon (>= 0.16.0, < 1.0)
+      json (>= 1.7.7, < 2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  json
+  mandrill-api
+
+BUNDLED WITH
+   1.14.4
